@@ -3,7 +3,7 @@
 - 💞️ I’m looking for a Front End role where I can become a valued team member by learning, teaching and contributing.
 - 📫 You can find me on Twitter @TheBryManDev - Or on Instagram as, dubjbry.
 - 📧 Reach out to me through email at bryanpursell2@hotmail.com
-- 🕸️ Visit my personal website at www.thebryman.dev
+- 🕸️ Visit my personal website at www.bryanpursell.dev
   
 
 <!---
